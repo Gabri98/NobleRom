@@ -1,0 +1,7 @@
+ak.res	466864f0a7b762b294ae959e4a0c12f2	132942
+ank-standard.res	beada7bd514da50c7c577a863ca75e00	94030
+equation-ak.lite.res	bd6d76956a1f30152bff0783918e1157	1559621
+equation-grm-mathwidget.res	32bc99a91b08520753467da002ffe2df	5331
+equation-grm-standard.res	9917a42bc913dbfb4b1625dd6e07703e	5051
+shk-analyzer.res	3bfd33773ac60730068f9461b4e0fe48	1578
+shk-standard.res	fbb06330dd824eb54aeec216da6d71e2	1578
