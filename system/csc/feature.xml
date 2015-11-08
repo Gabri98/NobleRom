@@ -31,9 +31,6 @@ jhwan.kim@hdlnc.com
 <CscFeature_Camera_EnableSmsNotiPopup>true</CscFeature_Camera_EnableSmsNotiPopup>
 <CscFeature_Camera_ShutterSoundMenu>true</CscFeature_Camera_ShutterSoundMenu>
 <CscFeature_Camera_CamcorderDoNotPauseMusic>true</CscFeature_Camera_CamcorderDoNotPauseMusic>
-<CscFeature_Camera_DefaultQuality>superfine</CscFeature_Camera_DefaultQuality>
-<CscFeature_Camcorder_DefaultQuality>superfine</CscFeature_Camcorder_DefaultQuality>
-
 
 <!-- Message -->
     <CscFeature_Message_DisplaySmsTimeAs>server</CscFeature_Message_DisplaySmsTimeAs>
@@ -115,38 +112,15 @@ jhwan.kim@hdlnc.com
 <CscFeature_Common_DisablePhoneNumberFormatting>true</CscFeature_Common_DisablePhoneNumberFormatting>
 <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
 
-<!-- RIL -->
-<CscFeature_RIL_SupportUssdWithSharpChar>true</CscFeature_RIL_SupportUssdWithSharpChar>
-<CscFeature_RIL_ForceConnectMMS>true</CscFeature_RIL_ForceConnectMMS>
-<CscFeature_RIL_IgnoreNitzNetworkName>TRUE</CscFeature_RIL_IgnoreNitzNetworkName>
-<CscFeature_RIL_DisplayStkUssdDialog>TRUE</CscFeature_RIL_DisplayStkUssdDialog>
-<CscFeature_RIL_EnableCallBarringConnectToUssd>TRUE</CscFeature_RIL_EnableCallBarringConnectToUssd>
-<CscFeature_RIL_EnableRoamingIcon4NationalRoaming>TRUE</CscFeature_RIL_EnableRoamingIcon4NationalRoaming>
-
 <!-- Settings -->
-<CscFeature_Setting_DefNotificationPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;MultiWindow;AllShareCast;Nfc;SmartStay;SmartScroll;SmartPause;Sync;AirplaneMode;NetworkBooster;Toolbox;CarMode;PersonalMode</CscFeature_Setting_DefNotificationPanelOrder>
-<CscFeature_Setting_DefQuickPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;MultiWindow;AllShareCast;Nfc;SmartStay;SmartScroll;SmartPause;Sync;AirplaneMode;NetworkBooster;Toolbox;CarMode;PersonalMode</CscFeature_Setting_DefQuickPanelOrder>
-<CscFeature_Setting_EnableMenuBlockCallMsg>TRUE</CscFeature_Setting_EnableMenuBlockCallMsg>
-<CscFeature_Framework_ReplaceDataTypeIconAsOpBrand>4g</CscFeature_Framework_ReplaceDataTypeIconAsOpBrand>
-
-<!-- Smart Manager -->
-<CscFeature_SmartManager_DisableAntiMalware>true</CscFeature_SmartManager_DisableAntiMalware>
+<CscFeature_Setting_DefNotificationPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;AllShareCast;Nfc;SmartStay;AirplaneMode;NetworkBooster;Toolbox;PersonalMode</CscFeature_Setting_DefNotificationPanelOrder>
+<CscFeature_Setting_DefQuickPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;AllShareCast;Nfc;SmartStay;AirplaneMode;NetworkBooster;Toolbox;PersonalMode</CscFeature_Setting_DefQuickPanelOrder>
 
 <!-- WEB -->
 <CscFeature_Web_EnableAutoSimHomeUrlInProfile>true</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
 <CscFeature_Web_AddOptionToTerminate>true</CscFeature_Web_AddOptionToTerminate>
 <CscFeature_Web_TerminateAppOnCloseAllAction>true</CscFeature_Web_TerminateAppOnCloseAllAction>
 <CscFeature_Web_EnableDesktopSiteAsDefault>false</CscFeature_Web_EnableDesktopSiteAsDefault>
-
-<!-- Add exit menu to stock web browser -->
-<CscFeature_Web_AddOptionToTerminate>true</CscFeature_Web_AddOptionToTerminate>
-
-<!-- Email -->
-<CscFeature_Email_UseFixedBgColorAsWhite>true</CscFeature_Email_UseFixedBgColorAsWhite>
-<CscFeature_Email_BackgroundColorWhite>true</CscFeature_Email_BackgroundColorWhite>
-
-<!-- Wifi -->
-<CscFeature_Wifi_MaxClient4MobileAp>4</CscFeature_Wifi_MaxClient4MobileAp>
 
 </FeatureSet>
 </SamsungMobileFeature>
