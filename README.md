@@ -6,4 +6,4 @@ Share this file leaving the credits to the original author of this project, if n
 I love to help every developers on xda and other forum and share the proper works with the correct credits.
 
 
-Gabri, Bulldog, 2015-11-7.
+Gabri, Bulldog, 2015-11-07.
