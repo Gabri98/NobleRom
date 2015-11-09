@@ -184,4 +184,4 @@ net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
 ro.build.aapt.config.prefer=xxxhdpi
 ro.build.version.sdl=2101
-
+debug.sf.hw=1
