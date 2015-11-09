@@ -112,9 +112,17 @@ jhwan.kim@hdlnc.com
 <CscFeature_Common_DisablePhoneNumberFormatting>true</CscFeature_Common_DisablePhoneNumberFormatting>
 <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
 
+<!-- RIL -->
+<CscFeature_RIL_SupportUssdWithSharpChar>true</CscFeature_RIL_SupportUssdWithSharpChar>
+<CscFeature_RIL_ForceConnectMMS>true</CscFeature_RIL_ForceConnectMMS>
+<CscFeature_RIL_IgnoreNitzNetworkName>TRUE</CscFeature_RIL_IgnoreNitzNetworkName>
+<CscFeature_RIL_DisplayStkUssdDialog>TRUE</CscFeature_RIL_DisplayStkUssdDialog>
+<CscFeature_RIL_EnableCallBarringConnectToUssd>TRUE</CscFeature_RIL_EnableCallBarringConnectToUssd>
+<CscFeature_RIL_EnableRoamingIcon4NationalRoaming>TRUE</CscFeature_RIL_EnableRoamingIcon4NationalRoaming>
+
 <!-- Settings -->
-<CscFeature_Setting_DefNotificationPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;AllShareCast;Nfc;SmartStay;AirplaneMode;NetworkBooster;Toolbox;PersonalMode</CscFeature_Setting_DefNotificationPanelOrder>
-<CscFeature_Setting_DefQuickPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;AllShareCast;Nfc;SmartStay;AirplaneMode;NetworkBooster;Toolbox;PersonalMode</CscFeature_Setting_DefQuickPanelOrder>
+<CscFeature_Setting_DefNotificationPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;TorchLight;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;MultiWindow;AllShareCast;Nfc;SmartStay;Sync;AirplaneMode;NetworkBooster;Toolbox;PersonalMode</CscFeature_Setting_DefNotificationPanelOrder>
+<CscFeature_Setting_DefQuickPanelOrder>Wifi;MobileData;Location;SilentMode;AutoRotate;Bluetooth;TorchLight;FloatingMessage;UltraPowerSaving;WiFiHotspot;PowerSaving;MultiWindow;AllShareCast;Nfc;SmartStay;Sync;AirplaneMode;NetworkBooster;Toolbox;PersonalMode</CscFeature_Setting_DefQuickPanelOrder>
 
 <!-- WEB -->
 <CscFeature_Web_EnableAutoSimHomeUrlInProfile>true</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
