@@ -116,7 +116,6 @@
     <CscFeature_Web_EnableAutoSimHomeUrlInProfile>FALSE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
     <CscFeature_Web_SetTcpConnTimeoutAs>60</CscFeature_Web_SetTcpConnTimeoutAs>
     <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
-    <CscFeature_Web_SetHomepageURL>http://forum.xda-developers.com/galaxy-s6/development/rom-noble-rom-t3183902</CscFeature_Web_SetHomepageURL>
     <CscFeature_Wifi_EapMethodSetting>NONE</CscFeature_Wifi_EapMethodSetting>
     <CscFeature_Wifi_EnableMenuIWLAN4>NONE</CscFeature_Wifi_EnableMenuIWLAN4>
     <CscFeature_NFC_DefStatus>OFF</CscFeature_NFC_DefStatus>
