@@ -1,5 +1,9 @@
-ui_print(" ");
-ui_print("Installing Noble E+ v4");
+ui_print("*****************************");
+ui_print("https://www.facebook.com/noblerom/?fref=ts    ");
+ui_print("Galaxy S6 / Edge SM-G920/5                    ");
+ui_print("NobleRom-SM-G928F AOJ5 V4.0                ");
+ui_print("Android:5.1.1                                             ");
+ui_print("*****************************");
 ui_print(" ");
 ui_print(" - formatting /system");
 unmount("/system");
