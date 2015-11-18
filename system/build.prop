@@ -86,8 +86,25 @@ ro.sf.lcd_density=560
 # Multimedia property for Smart View
 media.enable-commonsource=true
 
+# VoLTE/IMS
+persist.radio.jbims=1
+
+# E911
+persist.sys.e911.gcf=CS
+
 # Multimedia property for Camcorder Recording
 media.sfrec.adj_frames=2
+
+# SAMPOo
+#sys.config.spcm_enable=true
+#sys.config.spcm_kill_skip=true
+#sys.config.spcm_db_enable=true
+#sys.config.spcm_db_launcher=true
+#sys.config.spcm_preload_enable=true
+
+# BigData for Performance
+sys.config.bigdata_enable=true
+sys.config.bigdata_mem_enable=false
 
 # System property for storage_preload
 persist.sys.storage_preload=1
