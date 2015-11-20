@@ -7,7 +7,6 @@
   <FeatureSet>
     <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
     <CscFeature_Framework_EnableLinuxCommonApi4>NONE</CscFeature_Framework_EnableLinuxCommonApi4>
-    <CscFeature_Common_ConfigLocalSecurityPolicy>ChinaNalSecurity</CscFeature_Common_ConfigLocalSecurityPolicy>
     <CscFeature_SMemo_DisableMemoSync>TRUE</CscFeature_SMemo_DisableMemoSync>
     <CscFeature_Clock_DisableAccWeatherInfo>TRUE</CscFeature_Clock_DisableAccWeatherInfo>
     <CscFeature_Clock_ReplaceNameTaiwanWithTaipei>TRUE</CscFeature_Clock_ReplaceNameTaiwanWithTaipei>
@@ -123,20 +122,14 @@
     <CscFeature_NFC_FollowTechnologyRouteToDefRoute>TRUE</CscFeature_NFC_FollowTechnologyRouteToDefRoute>
     <CscFeature_RIL_CallerIdMatchingDigit>11</CscFeature_RIL_CallerIdMatchingDigit>
     <CscFeature_RIL_ForceConnectMMS>TRUE</CscFeature_RIL_ForceConnectMMS>
-    <CscFeature_RIL_ShowRatInNetworkList>TRUE</CscFeature_RIL_ShowRatInNetworkList>
-    <CscFeature_RIL_DefaultDataStateFalse>TRUE</CscFeature_RIL_DefaultDataStateFalse>
     <CscFeature_RIL_UseRatInfoDuringPlmnSelection>TRUE</CscFeature_RIL_UseRatInfoDuringPlmnSelection>
     <CscFeature_Common_EulaVersion>1</CscFeature_Common_EulaVersion>
     <CscFeature_Common_EnableAirMessage>TRUE</CscFeature_Common_EnableAirMessage>
     <CscFeature_RIL_DefTimeZoneHandling>Enable</CscFeature_RIL_DefTimeZoneHandling>
     <CscFeature_IMS_EnableVoLTE>FALSE</CscFeature_IMS_EnableVoLTE>
     <CscFeature_IMS_FrameworkVersion>5.0</CscFeature_IMS_FrameworkVersion>
-    <CscFeature_RIL_ConfigDataStatus>TRUE</CscFeature_RIL_ConfigDataStatus>
-    <CscFeature_RIL_WapPushFormat4>CTC</CscFeature_RIL_WapPushFormat4>
-    <CscFeature_RIL_SpecialAddressHandlingFor>CTC</CscFeature_RIL_SpecialAddressHandlingFor>
     <CscFeature_IMS_EnableIMS>FALSE</CscFeature_IMS_EnableIMS>
     <CscFeature_SyncML_ConfigDevicePreId>IMEI</CscFeature_SyncML_ConfigDevicePreId>
-    <CscFeature_RIL_PromptToDataRoam>TRUE</CscFeature_RIL_PromptToDataRoam>
     <CscFeature_Setting_ConfigActivationModeForPreloadInstaller>TRUE</CscFeature_Setting_ConfigActivationModeForPreloadInstaller>
     <CscFeature_SmartManager_ConfigDashboard>dual_dashboard</CscFeature_SmartManager_ConfigDashboard>
     <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart|networkpowersaving</CscFeature_SmartManager_ConfigSubFeatures>
