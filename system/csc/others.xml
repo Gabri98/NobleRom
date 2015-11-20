@@ -56,9 +56,6 @@
     <CscFeature_Launcher_ConfigEditMode>AppsFoldersSeperate</CscFeature_Launcher_ConfigEditMode>
     <CscFeature_Launcher_TotalPageCount>2</CscFeature_Launcher_TotalPageCount>
     <CscFeature_Launcher_DefaultPageNumber>0</CscFeature_Launcher_DefaultPageNumber>
-    <CscFeature_LiveWallpaper_TopicWallNewsCPName>sinanews</CscFeature_LiveWallpaper_TopicWallNewsCPName>
-    <CscFeature_LiveWallpaper_TopicWallStockCPName>sinastock</CscFeature_LiveWallpaper_TopicWallStockCPName>
-    <CscFeature_LiveWallpaper_WeatherWallCPName>Cmaweather</CscFeature_LiveWallpaper_WeatherWallCPName>
     <CscFeature_Calendar_EnableLocalHolidayDisplay>CHINA</CscFeature_Calendar_EnableLocalHolidayDisplay>
     <CscFeature_Calendar_EnableLunar>TRUE</CscFeature_Calendar_EnableLunar>
     <CscFeature_Calendar_EnableSDCardImport>TRUE</CscFeature_Calendar_EnableSDCardImport>
@@ -94,16 +91,6 @@
     <CscFeature_Music_SupportChinaMusicHub>TRUE</CscFeature_Music_SupportChinaMusicHub>
     <CscFeature_MyFiles_EnablePinyinSort>TRUE</CscFeature_MyFiles_EnablePinyinSort>
     <CscFeature_MyFiles_ConfigDataUsageWarning>TRUE</CscFeature_MyFiles_ConfigDataUsageWarning>
-    <CscFeature_Gallery_DisableLocationInfo>TRUE</CscFeature_Gallery_DisableLocationInfo>
-    <CscFeature_Gallery_ReplaceMenuAutoNavi>TRUE</CscFeature_Gallery_ReplaceMenuAutoNavi>
-    <CscFeature_Gallery_DisableMenuMakeAvailOffline>TRUE</CscFeature_Gallery_DisableMenuMakeAvailOffline>
-    <CscFeature_FMRadio_FrequencySpaceAs>100</CscFeature_FMRadio_FrequencySpaceAs>
-    <CscFeature_FMRadio_DefaultChannelAs>87.5</CscFeature_FMRadio_DefaultChannelAs>
-    <CscFeature_FMRadio_DisableRTPlusInfo>TRUE</CscFeature_FMRadio_DisableRTPlusInfo>
-    <CscFeature_FMRadio_DeconstantAs>50</CscFeature_FMRadio_DeconstantAs>
-    <CscFeature_FMRadio_BandWidthAs>87500_108000</CscFeature_FMRadio_BandWidthAs>
-    <CscFeature_FMRadio_DisableMenuAf>TRUE</CscFeature_FMRadio_DisableMenuAf>
-    <CscFeature_FMRadio_DisableMenuRds>TRUE</CscFeature_FMRadio_DisableMenuRds>
     <CscFeature_Web_AddOptionToTerminate>TRUE</CscFeature_Web_AddOptionToTerminate>
     <CscFeature_Web_EnableDeleteAllBookmarks>TRUE</CscFeature_Web_EnableDeleteAllBookmarks>
     <CscFeature_Web_DisableGoogleInBrowserSearchEngine>TRUE</CscFeature_Web_DisableGoogleInBrowserSearchEngine>
@@ -117,9 +104,6 @@
     <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
     <CscFeature_Wifi_EapMethodSetting>NONE</CscFeature_Wifi_EapMethodSetting>
     <CscFeature_Wifi_EnableMenuIWLAN4>NONE</CscFeature_Wifi_EnableMenuIWLAN4>
-    <CscFeature_NFC_DefStatus>OFF</CscFeature_NFC_DefStatus>
-    <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
-    <CscFeature_NFC_FollowTechnologyRouteToDefRoute>TRUE</CscFeature_NFC_FollowTechnologyRouteToDefRoute>
     <CscFeature_RIL_CallerIdMatchingDigit>11</CscFeature_RIL_CallerIdMatchingDigit>
     <CscFeature_RIL_ForceConnectMMS>TRUE</CscFeature_RIL_ForceConnectMMS>
     <CscFeature_RIL_UseRatInfoDuringPlmnSelection>TRUE</CscFeature_RIL_UseRatInfoDuringPlmnSelection>
