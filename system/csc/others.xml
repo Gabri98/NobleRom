@@ -91,6 +91,9 @@
     <CscFeature_Music_SupportChinaMusicHub>TRUE</CscFeature_Music_SupportChinaMusicHub>
     <CscFeature_MyFiles_EnablePinyinSort>TRUE</CscFeature_MyFiles_EnablePinyinSort>
     <CscFeature_MyFiles_ConfigDataUsageWarning>TRUE</CscFeature_MyFiles_ConfigDataUsageWarning>
+    <CscFeature_Gallery_DisableLocationInfo>TRUE</CscFeature_Gallery_DisableLocationInfo>
+    <CscFeature_Gallery_ReplaceMenuAutoNavi>TRUE</CscFeature_Gallery_ReplaceMenuAutoNavi>
+    <CscFeature_Gallery_DisableMenuMakeAvailOffline>TRUE</CscFeature_Gallery_DisableMenuMakeAvailOffline>
     <CscFeature_Web_AddOptionToTerminate>TRUE</CscFeature_Web_AddOptionToTerminate>
     <CscFeature_Web_EnableDeleteAllBookmarks>TRUE</CscFeature_Web_EnableDeleteAllBookmarks>
     <CscFeature_Web_DisableGoogleInBrowserSearchEngine>TRUE</CscFeature_Web_DisableGoogleInBrowserSearchEngine>
