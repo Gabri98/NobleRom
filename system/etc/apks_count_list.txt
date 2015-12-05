@@ -58,9 +58,9 @@
 /system/app/Bridge/Bridge.apk
 /system/app/ChromecastFrameworkService/ChromecastFrameworkService.apk
 /system/app/NfcNci/NfcNci.apk
-/system/app/withTV/withTV.apk
 /system/app/GameOptimizer/GameOptimizer.apk
 /system/app/MobilePrintSvc_Samsung/MobilePrintSvc_Samsung.apk
+/system/app/withTV/withTV.apk
 /system/app/Bluetooth/Bluetooth.apk
 /system/app/EmergencyLauncher/EmergencyLauncher.apk
 /system/app/Foundation/Foundation.apk
@@ -76,9 +76,9 @@
 /system/app/SlowMotion_Zero/SlowMotion_Zero.apk
 /system/app/SPrintSpoolerLMR1/SPrintSpoolerLMR1.apk
 /system/app/SmartcardManager/SmartcardManager.apk
-/system/app/FilterManager/FilterManager.apk
 /system/app/FactoryCamera_FB/FactoryCamera_FB.apk
 /system/app/AccessControl/AccessControl.apk
+/system/app/FilterManager/FilterManager.apk
 /system/app/GearManagerStub/GearManagerStub.apk
 /system/app/BeaconManager_30/BeaconManager_30.apk
 /system/app/SharingAccessibilitySettings_L/SharingAccessibilitySettings_L.apk
@@ -96,8 +96,8 @@
 /system/app/MultiWindowTrayService2/MultiWindowTrayService2.apk
 /system/app/AllshareFileShareServer/AllshareFileShareServer.apk
 /system/app/AllShareCastPlayer/AllShareCastPlayer.apk
-/system/app/SecurityManagerService/SecurityManagerService.apk
 /system/app/AppLinker/AppLinker.apk
+/system/app/SecurityManagerService/SecurityManagerService.apk
 /system/app/EasymodeContactsWidget/EasymodeContactsWidget.apk
 /system/app/SamsungIRMService/SamsungIRMService.apk
 /system/app/MyKNOXSetupWizard/MyKNOXSetupWizard.apk
@@ -115,12 +115,12 @@
 /system/app/SwitchKnoxI/SwitchKnoxI.apk
 /system/app/FidoUafClient/FidoUafClient.apk
 /system/app/FilterProvider/FilterProvider.apk
-/system/app/ImsSettings/ImsSettings.apk
 /system/app/SwitchKnoxII/SwitchKnoxII.apk
 /system/app/SysScope/SysScope.apk
 /system/app/DRParser/DRParser.apk
 /system/app/Personalization/Personalization.apk
 /system/app/Stk/Stk.apk
+/system/app/ImsSettings/ImsSettings.apk
 /system/app/AllshareFileShare/AllshareFileShare.apk
 /system/app/CaptivePortalLogin/CaptivePortalLogin.apk
 /system/app/WebManual/WebManual.apk
@@ -293,7 +293,6 @@
 /system/priv-app/SKMSAgent/SKMSAgent.apk
 /system/priv-app/intelligenceservice/intelligenceservice.apk
 /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
-/system/priv-app/SMCore/SMCore.apk
 /system/priv-app/sCloudDataRelay/sCloudDataRelay.apk
 /system/priv-app/FBInstaller/FBInstaller.apk
 /system/priv-app/DefaultContainerService/DefaultContainerService.apk
@@ -301,6 +300,7 @@
 /system/priv-app/Excel_SamsungStub/Excel_SamsungStub.apk
 /system/priv-app/FusedLocation/FusedLocation.apk
 /system/priv-app/Word_SamsungStub/Word_SamsungStub.apk
+/system/priv-app/SMCore/SMCore.apk
 /system/priv-app/WallpaperCompression/WallpaperCompression.apk
 /system/priv-app/TransmitPowerService/TransmitPowerService.apk
 /system/priv-app/FaceProvider/FaceProvider.apk
