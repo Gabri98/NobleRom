@@ -118,8 +118,6 @@
     <CscFeature_IMS_EnableIMS>FALSE</CscFeature_IMS_EnableIMS>
     <CscFeature_SyncML_ConfigDevicePreId>IMEI</CscFeature_SyncML_ConfigDevicePreId>
     <CscFeature_Setting_ConfigActivationModeForPreloadInstaller>TRUE</CscFeature_Setting_ConfigActivationModeForPreloadInstaller>
-    <CscFeature_SmartManager_ConfigDashboard>dual_dashboard</CscFeature_SmartManager_ConfigDashboard>
-    <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart|networkpowersaving</CscFeature_SmartManager_ConfigSubFeatures>
     <CscFeature_Setting_ConfigApkListForPreloadInstaller>
         SecMemo2.apk
 		SMagazine_Deletable.apk
