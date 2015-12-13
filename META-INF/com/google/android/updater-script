@@ -12,13 +12,15 @@ run_program("/sbin/mount", "/dev/block/platform/15570000.ufs/by-name/SYSTEM", "/
 show_progress(1.33, 120);
 ui_print(" - extracting ROM files");
 package_extract_dir("system", "/system");
-ui_print(" finishing installation");
+ui_print(" - finishing installation");
 package_extract_file("fixup.sh", "/tmp/fixup.sh");
 run_program("/sbin/chmod", "755", "/tmp/fixup.sh");
 run_program("/tmp/fixup.sh");
-ui_print(" deleting boot.img and installing unikernel for noblerom");
+ui_print(" - installing unikernel");
 package_extract_file("noblerom/kernel/boot.img", "/dev/block/sda5");
+ui_print(" - deleting tmp/boot");
 delete("/tmp/boot.img");
+ui_print(" - unmount/system, preload, cache, data");
 unmount("/system");
 unmount("/preload");
 unmount("/cache");

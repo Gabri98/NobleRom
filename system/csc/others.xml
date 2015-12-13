@@ -56,6 +56,8 @@
     <CscFeature_Launcher_ConfigEditMode>AppsFoldersSeperate</CscFeature_Launcher_ConfigEditMode>
     <CscFeature_Launcher_TotalPageCount>2</CscFeature_Launcher_TotalPageCount>
     <CscFeature_Launcher_DefaultPageNumber>0</CscFeature_Launcher_DefaultPageNumber>
+    <CscFeature_Calendar_EnableLocalHolidayDisplay>CHINA</CscFeature_Calendar_EnableLocalHolidayDisplay>
+    <CscFeature_Calendar_EnableLunar>TRUE</CscFeature_Calendar_EnableLunar>
     <CscFeature_Calendar_EnableSDCardImport>TRUE</CscFeature_Calendar_EnableSDCardImport>
     <CscFeature_Calendar_DisableGoogleMapIntegration>TRUE</CscFeature_Calendar_DisableGoogleMapIntegration>
     <CscFeature_Calendar_SetColorOfDays>XXXXXBR</CscFeature_Calendar_SetColorOfDays>
